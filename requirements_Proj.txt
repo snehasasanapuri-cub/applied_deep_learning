@@ -1,0 +1,35 @@
+python-dotenv
+langchain-community
+streamlit
+langchain_openai
+langchain_core
+langserve
+fastapi
+uvicorn
+sse_starlette
+pypdf
+PyPDF2
+chromadb
+faiss-cpu
+# ipykernel
+# bs4
+# arxiv
+# pymupdf
+# wikipedia
+# langchain-text-splitters
+# sentence_transformers
+langchain_huggingface
+# langchain_chroma
+# duckdb
+# pandas
+# openai
+# langchain-groq
+# duckduckgo_search=5.3.1b1
+pinecone-client
+pinecone-text
+pinecone-notebooks
+nltk
+azure-identity
+azure-core
+azure-search-documents
+
